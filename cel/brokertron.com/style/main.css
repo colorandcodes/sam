@@ -1,0 +1,66 @@
+.mainContent {
+  width: 815px;
+  font-family: sans-serif;
+  background:#fff;
+  border-radius:8px;
+  -moz-border-radius:8px;
+  -o-border-radius:8px;
+  -webkit-border-radius:8px;
+  padding:20px;
+  margin:20px auto;
+  clear:both; 
+}
+a {
+  color:#01b2e8;
+  text-decoration:none;
+}
+
+h1, h2 {
+  color:#4e4e4e;
+}
+h3, h4, h5, h6 {
+  color:#3b91c0;
+}
+
+div.title, caption.title {
+  color:#3b91c0;
+}
+
+div.sidebarblock > div.content {
+  border: 1px solid silver;
+  background: #ffffee;
+}
+div.listingblock > div.content {
+  border: 1px solid silver;
+  background: #f4f4f4;
+}
+
+div.admonitionblock .icon {
+  color: #527bbd;
+}
+
+a.image:visited { color: white; }
+
+dt {
+  color: #960;
+}
+
+div.tableblock > table {
+  border: 3px solid #4e4e4e;
+}
+
+td.hdlist1 {
+  color: navy;
+}
+
+.small_btn {
+  text-decoration: none;
+  display: inline;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background:#01b2e8;
+  color:#fff;
+}
+
+.test{float:left;}

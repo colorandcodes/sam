@@ -2,12 +2,10 @@
   width: 820px;
   font-family: sans-serif;
   background:#fff;
- -webkit-border-bottom-right-radius: 8px;
--webkit-border-bottom-left-radius: 8px;
--moz-border-radius-bottomright: 8px;
--moz-border-radius-bottomleft: 8px;
-border-bottom-right-radius: 8px;
-border-bottom-left-radius: 8px;
+ border-radius:8px;
+ -moz-border-radius:8px;
+ -webkit-border-radius:8px;
+ 
   padding:10px 20px 20px;
   margin:0 auto;
   clear:both; 

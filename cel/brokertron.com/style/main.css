@@ -1,14 +1,17 @@
 .mainContent {
-  width: 815px;
+  width: 820px;
   font-family: sans-serif;
   background:#fff;
-  border-radius:8px;
-  -moz-border-radius:8px;
-  -o-border-radius:8px;
-  -webkit-border-radius:8px;
-  padding:20px;
-  margin:20px auto;
+ -webkit-border-bottom-right-radius: 8px;
+-webkit-border-bottom-left-radius: 8px;
+-moz-border-radius-bottomright: 8px;
+-moz-border-radius-bottomleft: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+  padding:10px 20px 20px;
+  margin:0 auto;
   clear:both; 
+  
 }
 a {
   color:#01b2e8;
@@ -46,7 +49,7 @@ dt {
 }
 
 div.tableblock > table {
-  border: 3px solid #4e4e4e;
+  border: 3px solid #f63;
 }
 
 td.hdlist1 {
@@ -63,4 +66,3 @@ td.hdlist1 {
   color:#fff;
 }
 
-.test{float:left;}

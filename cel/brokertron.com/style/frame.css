@@ -16,5 +16,5 @@
 .subnav ul li a:hover{color:#fff;text-shadow:0 0 3px #fff;}
 .subnav ul li a.active{color:#fff;   }
 
-.footer{float:left; width:855px; background:#1d1d1d; padding:10px 0; text-align:center; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; margin-left:9px;color:#ccc;}
+.footer{float:left; width:860px; background:#1d1d1d; padding:10px 0; text-align:center; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; color:#ccc; margin-top:10px;}
 

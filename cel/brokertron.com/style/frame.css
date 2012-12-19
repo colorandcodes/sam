@@ -9,7 +9,7 @@
 .nav li a{ padding:0 20px; color:#000; font:18px/45px  Arial, Helvetica, sans-serif;}
 .nav li a:hover,.nav li a.active{color:red;}
 
-.subnav{float:left; width:860px; height:59px; background:url(images/subNav.png) 0 0 no-repeat; margin-bottom:-7px;  position:relative; z-index:111}
+.subnav{float:left; width:860px; height:59px; background:url(images/subNav.png) 0 0 no-repeat; margin-bottom:-15px;  position:relative; z-index:111}
 .subnav ul{display:block;}
 .subnav ul li{float:left; list-style:none; margin-right:30px;}
 .subnav ul li a{color:#222; font:18px/55px arial; }

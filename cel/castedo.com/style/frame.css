@@ -182,19 +182,3 @@ h3{font:italic 18px Georgia, "Times New Roman", Times, serif; color:#ff6633;  fl
 
 .in{float:right; margin-top:8px!important;}
 
-/*Common css */
-.floatLeft{float:left!important}
-.floatRight{float:right!important}
-.noborder{border:none!important;}
-
-.small_btn {
-  text-decoration: none;
-  display: inline;
-  color: #fff;
-  border: #960;
-  background: #f60;
-  font-weight: bold;
-  border-radius: 5px;
-  padding: 5px 10px;
-}
-

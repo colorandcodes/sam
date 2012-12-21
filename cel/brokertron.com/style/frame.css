@@ -7,7 +7,7 @@
 .nav li{width:167px; list-style:none; border-right:1px solid #c0bebe; float:left; text-align:center;}
 .nav li.last{border:none;}
 .nav li a{ padding:0 20px; color:#000; font:18px/45px  Arial, Helvetica, sans-serif;}
-.nav li a:hover,.nav li a.active{color:red;}
+.nav li a:hover,.nav li a.active{color:#16A8CC;}
 
 .subnav{float:left; width:860px; height:59px; background:url(images/subNav.png) 0 0 no-repeat; margin-bottom:-15px;  position:relative; z-index:111}
 .subnav ul{display:block;}

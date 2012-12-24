@@ -1,4 +1,4 @@
-body{ background:url(images/bg.jpg) center 0 no-repeat #ccc}
+body{ background:url(images/bg.jpg) center 0 no-repeat #ccc; padding:0; margin:0}
 .wrapper_content{width:860px; margin:0 auto; position:relative; overflow:hidden;}
 
 h1, h2, h3, h4, h5, h6 {
@@ -198,6 +198,7 @@ div.hdlist tr {
 dt.hdlist1.strong, td.hdlist1.strong {
   font-weight: bold;
 }
+
 td.hdlist1 {
   vertical-align: top;
   font-style: normal;

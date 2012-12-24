@@ -40,21 +40,24 @@ caption, th, td {
 body {
 	font:16px/26px Georgia, "Times New Roman", Times, serif; color:#996600;
 	
-	/*background:url(images/background.jpg) center 100px no-repeat;
-	background-size:100%;*/
+	background:#4a4a4a;
 }
-.header{float:left; width:100%; height:75px; border-bottom:10px solid #f63; position:relative; z-index:1}
-.wrapper{width:850px; margin:0 auto;}
+.header{float:left; width:100%; height:75px; border-bottom:10px solid #f63; position:relative; z-index:1; background:#fff;}
+.wrapper{width:100%; background:#fff;}
 h1 .logo{ color: #996600;  font:44px/75px sans-serif;    background:url(images/logo.png) 0 0 no-repeat; padding-left:85px;}
 h1 a:hover.logo{text-decoration:none!important;}
 
-.wrapper_content{ width:815px;  min-height:200px; float:left; box-shadow: 0 0  20px #c8c8c8;
+.wrapper_content{ width:860px;  min-height:200px;   box-shadow: 0 0  20px #c8c8c8;
 -webkit-box-shadow: 0 0  20px #c8c8c8;
 -moz-box-shadow: 0 0  20px #c8c8c8;
--o-box-shadow: 0 0  20px #c8c8c8;  padding:0 15px}
+-o-box-shadow: 0 0  20px #c8c8c8;   
+ margin:0 auto;
+ overflow:hidden;
+ clear:both;
+}
 
 /* Navigation*/
-.nav{float:right;  }
+.nav{float:right; margin-right:15px;  }
 .nav li{float:left; margin:0 1px;}
 .nav li a{float:left;
 
@@ -175,8 +178,9 @@ h3{font:italic 18px Georgia, "Times New Roman", Times, serif; color:#ff6633;  fl
 
 
 
-.footer{background:#4a4a4a; width:100%;  float:left; height:150px}
+.footer{background:#4a4a4a; width:100%;  float:left; height:60px}
 .footerLink{dispaly:block; background:#bdbdbd; height:40px;}
+.footerLink .wrapper{background:none; width:860px; margin:0 auto;}
 .footerLink a{color:#c73200; font:16px/38px Georgia, "Times New Roman", Times, serif; margin:0 2px;}
 .footerLink a.flogo{background:url(images/logo1.png)  0 0 no-repeat; padding-left:40px; font-size:18px; color:inherit}
 

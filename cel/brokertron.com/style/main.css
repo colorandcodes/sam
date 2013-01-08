@@ -1,3 +1,14 @@
+body {
+ background:url(images/bg.jpg) center 0 no-repeat #ccc;
+ padding:0;
+ margin:0;
+}
+.wrapper_content{
+ width:860px;
+ margin:0 auto;
+ position:relative;
+ overflow:hidden;
+}
 .mainContent {
   width: 820px;
   font-family: sans-serif;

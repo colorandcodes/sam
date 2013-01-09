@@ -52,13 +52,14 @@ h1 .logo {
 }
 h1 a:hover.logo{text-decoration:none!important;}
 
-.wrapper_content{ width:860px;  min-height:200px;   box-shadow: 0 0  20px #c8c8c8;
+.wrapper_content{ width:815px;  min-height:200px;   box-shadow: 0 0  20px #c8c8c8;
 -webkit-box-shadow: 0 0  20px #c8c8c8;
 -moz-box-shadow: 0 0  20px #c8c8c8;
 -o-box-shadow: 0 0  20px #c8c8c8;   
  margin:0 auto;
  overflow:hidden;
  clear:both;
+ padding:0 15px;
 }
 
 /* Navigation*/

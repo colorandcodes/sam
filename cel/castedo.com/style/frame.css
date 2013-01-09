@@ -44,7 +44,12 @@ body {
 }
 .header{float:left; width:100%; height:75px; border-bottom:10px solid #f63; position:relative; z-index:1; background:#fff;}
 .wrapper{width:100%; background:#fff;}
-h1 .logo{ color: #996600;  font:44px/75px sans-serif;    background:url(images/logo.png) 0 0 no-repeat; padding-left:85px;}
+h1 .logo {
+ color: #996600;
+ font:44px/75px sans-serif;
+ background:url(images/cel_logo.png) left center no-repeat;
+ padding-left:85px;
+}
 h1 a:hover.logo{text-decoration:none!important;}
 
 .wrapper_content{ width:860px;  min-height:200px;   box-shadow: 0 0  20px #c8c8c8;
@@ -182,7 +187,12 @@ h3{font:italic 18px Georgia, "Times New Roman", Times, serif; color:#ff6633;  fl
 .footerLink{dispaly:block; background:#bdbdbd; height:40px;}
 .footerLink .wrapper{background:none; width:860px; margin:0 auto;}
 .footerLink a{color:#c73200; font:16px/38px Georgia, "Times New Roman", Times, serif; margin:0 2px;}
-.footerLink a.flogo{background:url(images/logo1.png)  0 0 no-repeat; padding-left:40px; font-size:18px; color:inherit}
+.footerLink a.flogo {
+ background:url(images/cel_logo_small.png) left center no-repeat;
+ padding-left:40px;
+ font-size:18px;
+ color:inherit;
+}
 
 .in{float:right; margin-top:8px!important;}
 

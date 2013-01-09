@@ -17,25 +17,28 @@
 .subnav ul li a.active{color:#fff;   }
 
 .footer {
- float:left;
  width:100%;
  background:#AAAAAA;
  padding:10px 0;
- text-align:center;
- color:#960;
  margin:10px 0;
- -webkit-border-radius: 8px;
- -moz-border-radius: 8px;
- border-radius: 8px; 
- border-radius: 5px;
- margin-bottom:10px;
+ border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
+.footer_content {
+ margin:0 32px;
+ text-align:left;
+ color:#960;
 }
 .footer a {
- color:#C73200!important;
+ color:inherit;
 }
 .footer a.flogo {
- background:url(images/logo1.png)  0 0 no-repeat;
+ background:url(images/logo1.png) left center no-repeat;
  padding-left:40px;
  font-size:18px;
+}
+.footer .follow_cel {
+ float:right;
+ height:22px;
+ padding:4px 0;
 }
 

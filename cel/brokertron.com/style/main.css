@@ -11,7 +11,6 @@ body {
 }
 .mainContent {
   width: 820px;
-  font-family: sans-serif;
   background:#fff;
  border-radius:8px;
  -moz-border-radius:8px;
@@ -21,7 +20,6 @@ body {
   margin:0 auto;
   clear:both; 
   min-height:300px;
-  
 }
 a {
   color:#01b2e8;

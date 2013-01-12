@@ -1,7 +1,14 @@
 
 .header{float:left; width:100%; clear:both; margin-top:50px;}
 .logo{float:left;}
-.logo a{float:left; background:url(images/brokertron.png) 0 0 no-repeat; padding-left:55px; font:44px Arial, Helvetica, sans-serif;text-decoration:none; color: #960;}
+.logo a {
+  float:left; background:url(images/beta_logo.png) 0 0 no-repeat;
+  padding-left:56px;
+  height:48px;
+  font:48px Arial, Helvetica, sans-serif;
+  text-decoration:none;
+  color: #16A8CC;
+}
 
 .nav{float:right; width:336px; padding:0 20px; background:url(images/nav.png) 0 0 no-repeat; height:46px; margin:5px 10px 10px;  }
 .nav li{width:167px; list-style:none; border-right:1px solid #c0bebe; float:left; text-align:center;}
